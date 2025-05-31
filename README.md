@@ -33,14 +33,20 @@ A powerful AI-driven educational and assistive chatbot platform that supports **
 
 ---
 
+
+---
+
 ## Installation
 
+```bash
 pip install chatterbot
 pip install googletrans==4.0.0-rc1
 pip install pyttsx3
 pip install SpeechRecognition
 pip install opencv-python
 pip install tensorflow
+
+```
 
  ## How to Run
  
