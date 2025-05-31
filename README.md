@@ -33,21 +33,6 @@ A powerful AI-driven educational and assistive chatbot platform that supports **
 
 ---
 
-## Folder Structure
-
-├── chatbot/ # YAML Q/A files
-├── sign_language_model/ # Trained CNN model
-├── images/ # Sign dictionary images
-├── scripts/
-│ ├── chatbot_gui.py # Chatbot interface
-│ ├── sign_to_text.py # Sign language detection
-│ ├── speech_to_text.py # Voice input handler
-│ ├── text_to_speech.py # Voice output
-├── README.md
-
-
----
-
 ## Installation
 
 pip install chatterbot
